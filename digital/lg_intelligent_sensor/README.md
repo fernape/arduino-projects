@@ -19,4 +19,4 @@ Make sure everything has a common GND (connect RS232 pin #5 to
 Arduino's GND pin).
 
 ![schematics](https://github.com/fernape/arduino-projects/blob/master/digital/lg_intelligent_sensor/LG-intelligent-sensor.png))
-![real connection](https://github.com/fernape/arduino-projects/blob/masterdigital/lg_intelligent_sensor/shot.jpg)
+![real connection](https://github.com/fernape/arduino-projects/blob/master/digital/lg_intelligent_sensor/shot.jpg)
