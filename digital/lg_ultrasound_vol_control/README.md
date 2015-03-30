@@ -18,5 +18,5 @@ the single pin configuration.
 Connect the Arduino's Tx pin to T1in and connect T1out to LG TV RS232 pin #2 (Rd).
 Make sure everything has a common GND (connect RS232 pin #5 to Arduino's GND pin).
 
-![schematics](https://github.com/fernape/arduino-projects/blob/master/digital/lg_ultrasound_vol_control/LG-volume-control.png
+![schematics](https://github.com/fernape/arduino-projects/blob/master/digital/lg_ultrasound_vol_control/LG-volume-control.png)
 ![real connection](https://github.com/fernape/arduino-projects/blob/master/digital/lg_ultrasound_vol_control/shot.jpg)
