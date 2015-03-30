@@ -18,5 +18,7 @@ Connect the Arduino's Tx pin to T1in and connect T1out to LG TV RS232 pin #2 (Rd
 Make sure everything has a common GND (connect RS232 pin #5 to
 Arduino's GND pin).
 
+Here is a short [video](https://youtu.be/UMXfXuQEmn4)
+
 ![schematics](https://github.com/fernape/arduino-projects/blob/master/digital/lg_intelligent_sensor/LG-intelligent-sensor.png)
 ![real connection](https://github.com/fernape/arduino-projects/blob/master/digital/lg_intelligent_sensor/shot.png)
