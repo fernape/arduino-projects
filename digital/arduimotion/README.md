@@ -26,4 +26,6 @@ Note: Remember to change the above command to fit your file name, Arduino versio
 
 Here is a short [video]()
 
+The schematics
+
 ![schematics](https://github.com/fernape/arduino-projects/blob/master/digital/arduimotion/Schematics.png)
