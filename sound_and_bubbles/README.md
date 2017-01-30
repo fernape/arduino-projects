@@ -39,7 +39,9 @@ and then, to load it into the board:
 
 Note: Remember to change the above command to fit your file name, Arduino version, etc.
 
-Here is a short [video]()
+Here is a short [video](https://youtu.be/Sxx3LvobYMk)
+
+And this is another one [at the office](https://youtu.be/BmN9IUf0cyc)
 
 The schematics
 
