@@ -32,7 +32,7 @@ and then, to load it into the board:
 
 Note: Remember to change the above command to fit your file name, Arduino version, etc.
 
-Here is a short [video](https://youtu.be/4xqBJR1f9Ss)
+Here is a short [video]()
 
 The schematics
 
