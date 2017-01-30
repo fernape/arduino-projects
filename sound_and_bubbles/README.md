@@ -36,4 +36,4 @@ Here is a short [video](https://youtu.be/4xqBJR1f9Ss)
 
 The schematics
 
-![schematics](https://github.com/fernape/arduino-projects/blob/master/digital/arduimotion/Schematics.png)
+![schematics]()
