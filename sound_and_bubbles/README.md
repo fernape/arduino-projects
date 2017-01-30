@@ -27,6 +27,8 @@ Last, I used a potentionmeter (optional) to regulate the values returned by the 
 
 It is also important to make a good mix. If you use too much glycerine the superficial tension could prevent the bubbles from separating from the stick. If you use too few bubbles could explode even before they are completely formed.
 
+For the structure I used a cardboard box and some cardboard sheets. It is important to clear the space behind the fan so it can suck some air from the rear (I made some wholes in the box)
+
 To compile the code for the Arduino just type:
 
 `gmake`
@@ -42,3 +44,12 @@ Here is a short [video]()
 The schematics
 
 ![schematics](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/Sound_Bubbles_schematic.png)
+
+Here are some detailed pictures:
+
+![photo1](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/images/IMG_20170114_174827.jpg)
+![photo2](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/images/IMG_20170114_174834.jpg)
+![photo3](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/images/IMG_20170114_174901.jpg)
+![photo4](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/images/IMG_20170114_174909.jpg)
+![photo5](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/images/IMG_20170121_194715.jpg)
+![photo6](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/images/IMG_20170121_194745.jpg)
