@@ -36,4 +36,4 @@ Here is a short [video]()
 
 The schematics
 
-![schematics]()
+![schematics](https://github.com/fernape/arduino-projects/raw/master/sound_and_bubbles/Sound_Bubbles_schematic.png)
