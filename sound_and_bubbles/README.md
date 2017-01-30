@@ -18,9 +18,14 @@
 
 ## The set up
 Below you can find the schematics for the project. There are a couple of important things to notice, though.
+
 The first thing is that we need to control the fan with the arduino but the outputs of the arduino give ~20 mA that is not enought to drive the motor so we need to connect the fan to Vcc and Gnd via a power transistor (one that allows for more current to pass through). In addition we need to add a diode to prevent the [inductive kickback](https://www.maximintegrated.com/en/glossary/definitions.mvp/term/Inductive%20Kickback/gpk/175). When we switch the motor off, we get a spike of negative voltage that could damage our circuit.
+
 In addition, the motor of the fan drains current from our circuit and that can generate noise that affects the servo making it move erratically. To avoid this, we can use a capacitor so the fan sucks the power from it and does not affect the Arduino too much.
+
 Last, I used a potentionmeter (optional) to regulate the values returned by the sound sensor so we don't need to touch the software should we want to adjust the sensibility of the whole thing.
+
+It is also important to make a good mix. If you use too much glycerine the superficial tension could prevent the bubbles from separating from the stick. If you use too few bubbles could explode even before they are completely formed.
 
 To compile the code for the Arduino just type:
 
